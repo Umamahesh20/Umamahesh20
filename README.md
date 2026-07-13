@@ -16,7 +16,7 @@
   
 - 💬 Ask me about ** C, C++, Java, Python, SQL,**
   
-- 👨‍💻 This is My portfolio to check my details in this website [My_Portfolio](www.linkedin.com/in/uma-mahesh-851629261)
+- 👨‍💻 This is My portfolio to check my details in this website [My_Portfolio](www.linkedin.com/in/umamaheswararaon)
 
 ## Email ID
 - 📫 How to reach me **nallaboluumamaheswararao@gmail.com**
@@ -27,7 +27,7 @@
 
 ## Connect with 
 <p align="left">
-<a href="www.linkedin.com/in/uma-mahesh-851629261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umamahesh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/umamaheswararaon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umamahesh" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
